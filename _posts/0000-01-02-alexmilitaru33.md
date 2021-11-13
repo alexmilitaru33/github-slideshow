@@ -1,5 +1,5 @@
 ---
-  layout : slide 
+  layout : slide :)
 title : " Bun venit la al doilea nostru slide! "
 ---
 Textul dvs. 
